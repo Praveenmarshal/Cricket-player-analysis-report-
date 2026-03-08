@@ -48,6 +48,9 @@ Contributions are welcome! If you have suggestions for new features, better visu
 This project is licensed under the MIT License - see the LICENSE.md office master 
 
 ✉️ Contact
+
+If you have feedback or suggestions, feel free to connect.
+
  * Name: praveen k
  * phone: 8825870266
  * Email: praveenkicha01@gmail.com
