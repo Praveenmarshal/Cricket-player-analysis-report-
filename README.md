@@ -48,7 +48,8 @@ Contributions are welcome! If you have suggestions for new features, better visu
 This project is licensed under the MIT License - see the LICENSE.md office master 
 
 ✉️ Contact
- * Your Name/Alias: [praveen k]
- * GitHub: @praveenmarshal
+ * Name: praveen k
+ * Email: praveenkicha01@gmail.com
+ * GitHub: https://github.com/Praveenmarshal
  * LinkedIn: https://www.linkedin.com/in/praveen-kannan-6862382a2
  
