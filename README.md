@@ -49,6 +49,7 @@ This project is licensed under the MIT License - see the LICENSE.md office maste
 
 ✉️ Contact
  * Name: praveen k
+ * phone: 8825870266
  * Email: praveenkicha01@gmail.com
  * GitHub: https://github.com/Praveenmarshal
  * LinkedIn: https://www.linkedin.com/in/praveen-kannan-6862382a2
